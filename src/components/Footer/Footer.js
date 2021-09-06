@@ -7,7 +7,7 @@ const Footer = () => {
       <hr style={{ width: "90%", marginTop: 20 }} />
       <span className="name">
         Made by{" "}
-        <a href="https://www.youtube.com/c/RoadsideCoder" target="__blank">
+        <a href="https://www.facebook.com/Swistekk" target="__blank">
           Piotreck
         </a>
       </span>
