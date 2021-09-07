@@ -50,7 +50,7 @@ function App() {
       className="App"
       style={{
         height: "100vh",
-        backgroundColor: LightTheme ? "#fff" : "#282c34",
+        backgroundColor: LightTheme ? "#dcf500" : "#282c34",
         color: LightTheme ? "black" : "white",
         transition: "all 0.5s linear",
       }}
@@ -67,7 +67,7 @@ function App() {
         <div
           style={{ position: "absolute", top: 0, right: 15, paddingTop: 10 }}
         >
-          <span>{LightTheme ? "Dark" : "Light"} Mode</span>
+          <span>{LightTheme ? "Darkhhh" : "Light"} Mode</span>
           <PurpleSwitch
             checked={LightTheme}
             onChange={() => setLightTheme(!LightTheme)}
