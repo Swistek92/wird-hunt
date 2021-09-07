@@ -17,7 +17,7 @@ const Definitions = ({ meanings, word, LightTheme, category }) => {
       {/* audio---------------------------- */}
 
       {word === "" ? (
-        <span className="subTitle"><b>ELO ELO 32 0 </b> <br/> <b>:D:D:D:D:D</b></span>
+        <span className="subTitle"><b>ELO ELO 32 0 </b> <br/> <b>put some word up there!!  </b></span>
       ) : (
         meanings.map((mean) =>
           mean.meanings.map((item) =>
