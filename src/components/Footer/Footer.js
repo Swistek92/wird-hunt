@@ -19,7 +19,7 @@ const Footer = () => {
           <i className="fab fa-linkedin fa-2x"></i>
         </a>
         <a href="https://www.youtube.com/" target="__blank">
-          <i className="fab fa-youtube fa-2x"></i>
+          <i style={{ backgroundColor: "pink", borderRadius: 10 }} className="fas fa-grimace fa-2x"></i>
         </a>
       </div>
     </div>
